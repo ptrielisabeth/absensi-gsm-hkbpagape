@@ -182,7 +182,7 @@ if ($hari_angka == 0) {
 
     <footer class="text-center mt-5 pb-4">
         <p class="text-muted" style="font-size: 0.8rem;">
-            Developed with ❤️ by <br> 
+            Developed with ❤️ by 
             <span class="fw-bold" style="color: var(--pink-tua);">Putri Elisabeth Silalahi</span> &copy; 2026
         </p>
     </footer>
